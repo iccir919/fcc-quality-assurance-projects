@@ -1,1 +1,16 @@
-# fcc-quality-assurance-projects
+# [freeCodeCamp](https://www.freecodecamp.org/) Quality Assurance Projects
+
+## Metric-Imperial Converter
+- [Project Description](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/metric-imperial-converter)
+
+## Issue Tracker
+- [Project Description](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/issue-tracker)
+
+## Personal Library
+- [Project Description](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/personal-library)
+
+## Sudoku Solver
+- [Project Description](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/sudoku-solver)
+
+## American British Translator
+- [Project Description](https://www.freecodecamp.org/learn/quality-assurance/quality-assurance-projects/american-british-translator)
