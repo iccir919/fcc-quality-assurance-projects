@@ -9,7 +9,7 @@
 function ConvertHandler() {
 
   this.getNum = function(input) {
-    let result = input.match(/^\d+/)[0];
+    let result = input.match(/[+-]?\d+(?:\.\d+)?/)[0];
 
     return result;
   };
