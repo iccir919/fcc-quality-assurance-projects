@@ -9,9 +9,8 @@
 function ConvertHandler() {
 
   this.getNum = function(input) {
-    let result = input.match(/[+-]?\d+(?:\.\d+)?/)[0];
-
-    return result;
+    input = input.replace(/[^-0-9\./]+/g, "");
+    return input;
   };
 
   this.getUnit = function(input) {
