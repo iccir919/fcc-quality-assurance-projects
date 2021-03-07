@@ -9,8 +9,12 @@
 function ConvertHandler() {
 
   this.getNum = function(input) {
-    input = input.replace(/[^-0-9\./]+/g, "");
-    return input;
+    input = input.replace(/[^-0-9\./]+/g, '');
+    if (input.includes('/')) {
+      return eval(input);
+    } else {
+      return eval(input);
+    }
   };
 
   this.getUnit = function(input) {
